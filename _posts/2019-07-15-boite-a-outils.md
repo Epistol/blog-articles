@@ -90,7 +90,7 @@ post_date: 2019-07-15 08:29:48
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li><a href="https://tailwindcss.com/">https://tailwindcss.com/</a> (Tailwind : utility-first framework css)</li><li><a href="https://nerdcave.com/tailwind-cheat-sheet"><a href="https://nerdcave.com/tailwind-cheat-sheet">https://nerdcave.com/tailwind-cheat-sheet</a></a> (Cheat Sheet pour Tailwind)</li></ul>
+<ul><li><a href="https://tailwindcss.com/">https://tailwindcss.com/</a> (Tailwind : utility-first framework css)</li><li><a href="https://nerdcave.com/tailwind-cheat-sheet"></a><a href="https://nerdcave.com/tailwind-cheat-sheet">https://nerdcave.com/tailwind-cheat-sheet</a> (Cheat Sheet pour Tailwind)</li><li> <a href="https://semantic-ui.com/modules/checkbox.html">https://semantic-ui.com/modules/checkbox.html</a>  (Ui KIT)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
