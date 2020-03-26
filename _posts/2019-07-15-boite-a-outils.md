@@ -30,7 +30,7 @@ post_date: 2019-07-15 08:29:48
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li><a href="http://asana.com">Asana.com</a></li><li><a href="https://trello.com/">Trello</a></li></ul>
+<ul><li><a href="http://asana.com">Asana.com</a></li><li><a href="https://trello.com/">Trello</a></li><li><a href="https://www.notion.so/">Notion.so</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
