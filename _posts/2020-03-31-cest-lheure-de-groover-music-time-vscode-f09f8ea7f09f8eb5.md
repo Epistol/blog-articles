@@ -11,10 +11,6 @@ permalink: 'https://epistol.fr/ressources/cest-lheure-de-groover-music-time-vsco
 published: true
 post_date: 2020-03-31 13:23:40
 ---
-<!-- wp:image {"id":551,"width":768,"height":541,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://epistol.fr/wp-content/uploads/2020/03/music-time-diagram-1024x721.png" alt="" class="wp-image-551" width="768" height="541"/><figcaption>Music Time</figcaption></figure>
-<!-- /wp:image -->
-
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Music Time est une extension VS Code qui découvre la musique la plus productive à écouter pendant que vous codez</p><cite>- Description de l'application traduit de l'anglais</cite></blockquote>
 <!-- /wp:quote -->
