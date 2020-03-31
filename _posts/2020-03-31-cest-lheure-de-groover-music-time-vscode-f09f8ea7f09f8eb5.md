@@ -7,7 +7,7 @@ post_excerpt: >
   découvre la musique la plus productive
   à écouter pendant que vous codez
 layout: post
-permalink: 'https://epistol.fr/article/cest-lheure-de-groover-music-time-vscode-%f0%9f%8e%a7%f0%9f%8e%b5/'
+permalink: 'https://epistol.fr/ressources/cest-lheure-de-groover-music-time-vscode-%f0%9f%8e%a7%f0%9f%8e%b5/'
 published: true
 post_date: 2020-03-31 13:23:40
 ---
